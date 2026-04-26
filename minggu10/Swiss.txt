@@ -1,0 +1,3 @@
+Negara = "Swiss"
+Jumlah Kota = "151 Kota"
+Jumlah Penduduk = "9.010.000 jiwa"
